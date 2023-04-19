@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecifeFit</string>
+    <string name="nome_input">Nome</string>
+    <string name="senha_input">Senha</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="button_registrar">Cadastrar-se</string>
+    <string name="versao">Versão 0.00</string>
+    <string name="logo">logo</string>
+    <string name="Bem_Vindo">Bem vindo ao RecifeFit</string>
+    <string name="msgError">Usuário ou senha incorreta</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="Email_input">Email</string>
+    <string name="versao_app">Versão</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecifeFit</string>
+    <string name="Bem_Vindo">Welcome to RecifeFit</string>
+    <string name="nome_input">Name</string>
+    <string name="senha_input">Password</string>
+    <string name="button_entrar">Login</string>
+    <string name="button_registrar">Sign up</string>
+    <string name="versao">Version</string>
+    <string name="logo">image</string>
+    <string name="msgError">wrong username or password</string>
+    <string name="cadastro">Sign up</string>
+    <string name="Email_input">Email</string>
+    <string name="versao_app">Version</string>
+</resources>

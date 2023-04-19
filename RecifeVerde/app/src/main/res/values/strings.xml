@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecifeFit</string>
+    <string name="Bem_Vindo" translatable="false">Bem-vindo ao RecifeFit</string>
+    <string name="nome_input" translatable="false"> Nome </string>
+    <string name="senha_input" translatable="false"> Senha </string>
+    <string name="button_entrar" translatable="false"> Entrar </string>
+    <string name="button_registrar" translatable="false"> Registrar </string>
+    <string name="versao_app" translatable="false">Versão 1.00</string>
+    <string name="logo" translatable="false">logo</string>
+    <string name="msgError">Usuário ou senha incorreta</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="Email_input">Email</string>
+</resources>
